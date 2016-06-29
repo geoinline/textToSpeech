@@ -1,7 +1,3 @@
-/*
- * 
- * Copyright (c) 2015, Leidos
- */
 package com.github.geoinline.texttospeech;
 
 import com.github.geoinline.texttospeech.Kevin;
@@ -12,10 +8,6 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author bkapp
- */
 public class KevinTest {
     
     public KevinTest() {
